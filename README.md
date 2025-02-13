@@ -1,5 +1,5 @@
-# Face Recognition-Based Attendance System  
-This project implements a **Face Recognition-Based Attendance System** using Python and various machine learning libraries. It automates the process of marking attendance by recognizing faces in real-time or through pre-recorded images or videos. The system is efficient, secure, and user-friendly, making it ideal for schools, colleges, offices, and other organizations.  
+# Attendance System Using Face Recognition  
+This project implements a **Attendance System Using Face Recognition** using Python and various machine learning libraries. It automates the process of marking attendance by recognizing faces in real-time or through pre-recorded images or videos. The system is efficient, secure, and user-friendly, making it ideal for schools, colleges, offices, and other organizations.  
 
 ## Features  
 - **Face Detection and Recognition**:  
@@ -45,8 +45,8 @@ Follow these steps to set up the project:
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/yourusername/face-recognition-attendance.git  
-   cd face-recognition-attendance  
+   git clone https://github.com/bilal3898/Attendance System Using Face Recognition.git  
+   cd Attendance System Using Face Recognition  
    ```  
 
 2. Install dependencies:  
